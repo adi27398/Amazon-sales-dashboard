@@ -20,9 +20,9 @@ This project aims to provide a comprehensive analysis of Amazon sales data throu
 3. Customize views as needed to focus on specific metrics or trends
 
 ## Contributor
-- Aarya
+- Aditya
 
 
 ## License
-This project is licensed under the Aarya.
+This project is licensed under the Aditya.
 
